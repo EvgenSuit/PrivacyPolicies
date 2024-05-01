@@ -27,6 +27,6 @@ The Service shares the following data with the corresponding third-party provide
 The Service does not partner with any advertisers and does not collect data for advertising purposes
   
 ### Data deletion
-A user who is registered in the Service can request that their data be deleted by following this link: https://docs.google.com/forms/d/e/1FAIpQLSdRLSJb-eLDbfACdcZo6J9gMUBNHE8w8jYzmbbA5vxO0s4E0g/viewform?usp=sharing, or directly in the app
+A user who is registered in the Service can request that their data be deleted by following this link: https://docs.google.com/forms/d/e/1FAIpQLSdRLSJb-eLDbfACdcZo6J9gMUBNHE8w8jYzmbbA5vxO0s4E0g/viewform?usp=sharing, or manually delete their data in the app
 
 If you use the Service and have any questions, complaints, or suggestions regarding this Privacy Policy, please email me: `mokichzhenya@gmail.com`
