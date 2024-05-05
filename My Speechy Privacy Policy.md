@@ -8,6 +8,7 @@ This page is used to inform visitors regarding the way this Service collects, us
 
 
 ### Third-party services and permissions used
+- Internet access, which allows for the usage of Firebase
 - Firebase Firestore, which allows users to save their exercise progress, thought tracks, and meditation statistics
 - Firebase Authentication, which allows for authentication, without which the Service's main functionalities will not work
 - Firebase Realtime Database, which allows users to connect, which I view as very important in the context of helping those with stutter
