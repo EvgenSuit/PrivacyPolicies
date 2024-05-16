@@ -12,7 +12,9 @@ This page is used to inform visitors regarding the way this Service collects, us
 - Firebase Firestore, which allows users to save their exercise progress, thought tracks, and meditation statistics
 - Firebase Authentication, which allows for authentication, without which the Service's main functionalities will not work
 - Firebase Realtime Database, which allows users to connect, which I view as very important in the context of helping those with stutter
-- Firebase Storage, which enables users to have their profile pictures in the Service
+- Firebase Storage, which enables users to have their profile pictures
+- Firebase Crashlytics, which makes it possible for a developer to spot issues like crashes and app not responding
+- Firebase Analytics, which helps a developer improve and adjust the product to specific audiences
 - `android.permission.POST_NOTIFICATIONS` permission in AndroidManifest allows users to cancel a meditation session from the quick settings menu. The Service will not feature this permission if:
   - The request is denied directly in the app when prompted.
   - A user revokes this permission in the app's settings if it has already been granted
