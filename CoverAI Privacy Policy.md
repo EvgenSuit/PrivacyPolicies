@@ -16,6 +16,9 @@ This page is used to inform visitors regarding the way this Service collects, us
 - Firebase Analytics, which helps a developer improve and adjust the product to specific audiences
 - Gemini API, which is used to generate compelling cover letters (consider referring to the API's privacy policy)
 
+### Additional data used to provide necessary user experience
+- Resume information, which is used to fill a user's profile (a user has an option to manually fill in their profile)
+
 ### Data shared
 The Service shares the following data with the corresponding third-party providers to ensure the necessary user experience
 - Username (either provided manually or by Google in case a user authenticated using that provider), email, and password
