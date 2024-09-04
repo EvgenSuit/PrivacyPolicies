@@ -10,7 +10,7 @@ This page is used to inform visitors regarding the way this Service collects, us
 
 ### Third-party services and permissions used
 - Internet access, which allows for the usage of Firebase
-- Firebase Firestore, which allows users to manage their cover letters
+- Firebase Firestore, which allows users to manage their cover letters and profile
 - Firebase Authentication, which allows for authentication, without which the Service's main functionalities will not work
 - Firebase Crashlytics, which makes it possible for a developer to spot issues like crashes and app not responding
 - Firebase Analytics, which helps a developer improve and adjust the product to specific audiences
@@ -18,8 +18,7 @@ This page is used to inform visitors regarding the way this Service collects, us
 
 ### Data shared
 The Service shares the following data with the corresponding third-party providers to ensure the necessary user experience
-- Email and password
-- A username associated with a Google account in case a user authenticated using that provider
+- Username (either provided manually or by Google in case a user authenticated using that provider), email, and password
 
 **All data goes through the most modern and up-to-date encryption pipelines and is not being sold to any entity**
 
