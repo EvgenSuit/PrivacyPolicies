@@ -25,9 +25,6 @@ The Service shares the following data with the corresponding third-party provide
 - Username (either provided manually or by Google in case a user authenticated using that provider), email, and password
 
 **All data goes through the most modern and up-to-date encryption pipelines and is not being sold to any entity**
-
-### Advertising
-The Service does not partner with any advertisers and does not collect data for advertising purposes
   
 ### Data deletion
 A user who is registered in the Service can request that their data be deleted by following this link:
