@@ -15,6 +15,7 @@ This page is used to inform visitors regarding the way this Service collects, us
 - Firebase Crashlytics, which makes it possible for a developer to spot issues like crashes and app not responding
 - Firebase Analytics, which helps a developer improve and adjust the product to specific audiences
 - Advertising ID, which is used to diagnose and fix bugs, as well as to make future improvements
+- COARSE_LOCATION, which is used to search the web for jobs in the country where a user is located
 - Gemini API, which is used to generate compelling cover letters (consider referring to the API's privacy policy)
 
 ### Additional data used to provide necessary user experience
